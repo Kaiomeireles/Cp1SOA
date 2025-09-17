@@ -184,8 +184,3 @@ curl -X POST http://localhost:8080/produtos \
 	•	Guilherme Fernandes de Freitas – RM554323
 	•	João Pedro Chizzolini de Freitas – RM553172
 
----
-
-👉 Esse README já está no formato que sua professora espera: numerado, organizado, com endpoints, exemplos e dados dos integrantes.  
-
-Quer que eu te monte também o `schema.sql` (CREATE TABLE de clientes e produtos) pronto pra colocar junto no repositório/ZIP?
