@@ -42,8 +42,8 @@ CREATE TABLE produto (
 );  
  
 -- SEEDS
-INSERT INTO cliente (nome, email, documento) VALUES ('Ana Silva','ana@email.com','123'); 
-INSERT INTO cliente (nome, email, documento) VALUES ('Carlos Souza','carlos@email.com','456'); 
+INSERT INTO cliente (nome, email, documento) VALUES ('Kaio Meireles','kaiomeireles@email.com','123'); 
+INSERT INTO cliente (nome, email, documento) VALUES ('Lucas Souza','carlos@email.com','456'); 
  
 INSERT INTO produto (nome, preco, categoria, descricao, ativo) VALUES ('Notebook', 3500.00, 'Informática', 'Básico', TRUE); 
 INSERT INTO produto (nome, preco, categoria, descricao, ativo) VALUES ('Mouse', 120.00, 'Acessórios', 'USB', TRUE);
