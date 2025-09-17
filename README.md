@@ -96,10 +96,10 @@ Validações:
 DTOs:
 
 // ClienteRequestDTO
-{ "nome": "Ana Silva", "email": "ana@email.com", "documento": "123.456.789-00" }
+{ "nome": "Kaio Meireles", "email": "kaiomeireles@email.com", "documento": "123.456.789-00" }
 
 // ClienteResponseDTO
-{ "id": 1, "nome": "Ana Silva", "email": "ana@email.com", "documento": "123.456.789-00" }
+{ "id": 1, "nome": "Lucas Souza", "email": "lucasouza@email.com", "documento": "123.456.789-00" }
 
 
 ⸻
