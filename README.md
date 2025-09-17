@@ -1,5 +1,3 @@
-Show 😃 aqui está o README.md finalizado, pronto pra colar no seu projeto ou no GitHub/ZIP:
-
 # Loja Online – API REST (CP1)
 
 ## 1. Requisitos
